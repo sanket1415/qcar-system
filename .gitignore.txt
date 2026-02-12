@@ -1,0 +1,13 @@
+# Maven
+target/
+backend/target/
+
+# Logs
+*.log
+
+# Node
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
